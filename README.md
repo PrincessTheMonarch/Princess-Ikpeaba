@@ -1,6 +1,2 @@
 - 👋 Hi, I’m Princess Ikpeaba
 - 💻 I am a product designer
-- 👀 I’m interested in game design
-- 🌱 I’m currently learning responsive and interaction design
-- 💞️ I’m looking to develop myself more with regular practice and volunteering
-- 📫 You can reach me on twitter @papi_TheMonarch
